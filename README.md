@@ -1,5 +1,7 @@
 # JIN Streaming Monitor
 
+![JIN Streaming Monitor](TITLE.png)
+
 JIN의 주요 음원 및 영상 플랫폼 데이터를 한곳에서 확인하기 위한 스트리밍 모니터링 대시보드입니다.
 
 ### Monitoring
